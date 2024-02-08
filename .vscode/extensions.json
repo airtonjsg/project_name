@@ -1,0 +1,10 @@
+{
+    "recommendations": [
+        "ms-python.python",
+        "batisteo.vscode-django",
+        "bibhasdn.django-snippets",
+        "ritwickdey.liveserver",
+        "file-icons.file-icons",
+        "vscode-icons-team.vscode-icons"
+    ]
+}
